@@ -1,2 +1,6 @@
-# web3cosmos
-One stop for discovering the world of decentralized technologies.
+---
+description: the structured list of different domains in decentralized technologies.
+---
+
+# Home
+
