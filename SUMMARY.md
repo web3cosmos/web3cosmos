@@ -24,8 +24,3 @@
 
 * [Newsletters](blogs-and-newsletters/newsletters.md)
 * [Blogs](blogs-and-newsletters/blogs.md)
-
-## Group 1
-
-* [Page 3](group-1/page-3.md)
-* [Page 4](group-1/page-4.md)
