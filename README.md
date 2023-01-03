@@ -16,5 +16,3 @@ Content model
 * content\_review : user\_commentList \[ ]&#x20;
 * content\_tags : \[ ]
 
-{% embed url="https://docs.google.com/document/d/1a1Rf9-0UMVVCUtIPHFXbuTspL6ervUz5k_SA675f_sQ/edit" %}
-

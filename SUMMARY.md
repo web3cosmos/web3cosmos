@@ -2,20 +2,30 @@
 
 * [Home](README.md)
 
-## 🤯 Exploring Path
+## 🧗♂ Exploring Path
 
-* [Page 1](exploring-path/page-1.md)
+* [Life need exploration](exploring-path/life-need-exploration.md)
 
 ## 🗿 Learning Path
 
-* [Page 5](learning-path/page-5.md)
+* [Want to gain web3 knowledge](learning-path/want-to-gain-web3-knowledge.md)
 
 ## 🦄 Developers Path
 
-* [Page 6](developers-path/page-6.md)
+* [Are you a developer](developers-path/are-you-a-developer.md)
 
 ***
 
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
-* [Page 4](page-4.md)
+* [About us](about-us.md)
+* [join the Community](join-the-community.md)
+* [Newsletter](newsletter.md)
+
+## 🔭 Blogs and Newsletters
+
+* [Newsletters](blogs-and-newsletters/newsletters.md)
+* [Blogs](blogs-and-newsletters/blogs.md)
+
+## Group 1
+
+* [Page 3](group-1/page-3.md)
+* [Page 4](group-1/page-4.md)
