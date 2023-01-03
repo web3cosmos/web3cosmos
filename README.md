@@ -16,3 +16,16 @@ Content model
 * content\_review : user\_commentList \[ ]&#x20;
 * content\_tags : \[ ]
 
+#### content example
+
+<details>
+
+<summary>Ethereum <img src="https://ethereum.org/static/4d030a46f561e5c754cabfc1a97528ff/3ba1a/impact_transparent.webp" alt=""></summary>
+
+![](https://ethereum.org/static/754d2f72ce2296fb59d9d974aeda16be/1e993/future\_transparent.webp)
+
+Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+
+
+
+</details>
