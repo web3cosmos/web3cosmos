@@ -4,7 +4,11 @@
 
 ## 🧗♂ Exploring Path
 
-* [Life need exploration](exploring-path/life-need-exploration.md)
+* [Life need exploration](exploring-path/life-need-exploration/README.md)
+  * [💸 deFi](exploring-path/life-need-exploration/defi.md)
+  * [🐔 NFTs](exploring-path/life-need-exploration/nfts/README.md)
+    * [www.nft.com](exploring-path/life-need-exploration/nfts/www.nft.com.md)
+  * [🧜♂ DSNs](exploring-path/life-need-exploration/dsns.md)
 
 ## 🗿 Learning Path
 
