@@ -18,13 +18,13 @@
 
 * [Are you a developer](developers-path/are-you-a-developer.md)
 
-***
-
-* [About us](about-us.md)
-* [join the Community](join-the-community.md)
-* [Newsletter](newsletter.md)
-
 ## 🔭 Blogs and Newsletters
 
 * [Newsletters](blogs-and-newsletters/newsletters.md)
 * [Blogs](blogs-and-newsletters/blogs.md)
+
+***
+
+* [🐋 About us](about-us.md)
+* [🐬 join the Community](join-the-community.md)
+* [🧑💻 Newsletter](newsletter.md)

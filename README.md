@@ -6,7 +6,10 @@ description: >-
 
 # 🦹♀ Home
 
-
+* get the list of top most liked in every category
+* find every application made in web3tech stack
+* find the best in industry blogs and newsletters
+* find the best way to learn and develop web3.0 application
 
 #### content example
 
