@@ -1,8 +1,12 @@
 ---
-description: the structured list of different domains in decentralized technologies.
+description: >-
+  We are trying to Structure the chaos in different domains of decentralized
+  technologies.
 ---
 
 # 🦹♀ Home
+
+
 
 #### content example
 
